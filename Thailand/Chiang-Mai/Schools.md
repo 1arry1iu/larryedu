@@ -3,17 +3,14 @@
 | 排名 | 英文校名 | 中文校名 | 体制 | 早教 | 小学 | 初中 | 高中 |
 |---|---|---|---|---|---|---|---|
 || **第一阶梯** |
-| 1 | [Montfort College Primary Section](https://www.mcp.ac.th/) | 蒙福学院小学部 | 私立 | - | 泰制 | - | - |
-| 1 | [Montfort College Secondary Section](https://www.montfort.ac.th/) | 蒙福学院中学部 | 私立 | - | - | 泰制 | 泰制 |
-| 1 | [Montfort College Secondary Section English Programme](https://www.montfort.ac.th/) | 蒙福学院中学部英语项目 | 国际 | - | - | 剑桥 | 剑桥 |
+| 1 | Montfort College ([Primary Section](https://www.mcp.ac.th/), [Secondary Section](https://www.montfort.ac.th/)) | 蒙福学院 | 国际 | - | 泰制 | 泰制/剑桥 | 泰制/剑桥 |
 || **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 | IEYC | 剑桥/IPC | 剑桥 | 剑桥 |
 | 3 | [Prince Royal's College](https://www.prc.ac.th/) | 皇家王子学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 国际 | EYFS | 新加坡 | 新加坡/剑桥 | 剑桥 |
 || **第三阶梯** |
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP |
-| 6 | [Chiang Mai University Demonstration School (Kindergarten and Primary Levels)](https://itpc.edu.cmu.ac.th/) | 清迈大学附属示范学校幼儿园和小学部 | 公立 | 泰制 | 泰制 | - | - |
-| 6 | [Chiang Mai University Demonstration School (Secondary Levels)](https://cmud.edu.cmu.ac.th/) | 清迈大学附属示范学校中学部 | 公立 | - | - | 泰制 | 泰制 |
+| 6 | Chiang Mai University Demonstration School ([Kindergarten and Primary Levels](https://itpc.edu.cmu.ac.th/), [Secondary Levels](https://cmud.edu.cmu.ac.th/)) | 清迈大学附属示范学校幼儿园和小学部 | 公立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 6 | [Chiang Mai International School](https://cmis.ac.th/) | 清迈国际学校 | 国际 | 本校 | 本校 | 本校 | 美式/AP |
 | 6 | [Dara Academy](http://dara.ac.th/) | 德拉学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 6 | [Satit International Bilingual School of Rangsit University Chiangmai](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
@@ -39,8 +36,7 @@
 || [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
 || [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
-|| [Wichai Wittaya School Nursery and Kindergarten Sections](https://wichai.ac.th/) | 威才维塔雅学校早教部 | 私立 | 泰制 | - | - | - |
-|| [Wichai Wittaya School Primary and Secondary Sections](https://wichai.ac.th/) | 威才维塔雅学校小学和中学部 | 国际 | - | 剑桥 | 剑桥 | 剑桥 |
+|| [Wichai Wittaya School](https://wichai.ac.th/) | 威才维塔雅学校 | 国际 | 泰制 | 剑桥 | 剑桥 | 剑桥 |
 || [Windfield, Ecole Française de Chiang Mai](https://windfield.ac.th/chiang-mai-campus/) | 温德菲尔德清迈法国学校 | 国际 | 法国 | 法国 | - | - |
 || [Ambassador Bilingual Academy](https://www.abachiangmai.com/) | 大使双语学院 | 私立泰制 | 
 || [Ambassador Bilingual School](https://absbilingualschool.ac.th/) | 大使双语学校 | 私立泰制 |
