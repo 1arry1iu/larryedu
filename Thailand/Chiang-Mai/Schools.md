@@ -2,15 +2,15 @@
 
 | 排名 | 英文校名 | 中文校名 | 阶段 | 学制 |
 |---|---|---|---|---|
-| **第一阶梯** |
+|| **第一阶梯** |
 | 1 | [Montfort College Primary Section](https://www.mcp.ac.th/) | 蒙福学院小学部 | 小学 | 私立泰制 |
 | 1 | [Montfort College Secondary Section](https://www.montfort.ac.th/) | 蒙福学院中学部 | 中学 | 私立泰制 | 
 | 1 | [Montfort College Secondary Section English Programme](https://www.montfort.ac.th/) | 蒙福学院中学部英语项目 | 中学 | 国际 | 
-| **第二阶梯** |
+|| **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 幼小中 | 国际 | 
 | 3 | [Prince Royal's College](https://www.prc.ac.th/) | 皇家王子学院 | 幼小中 | 私立泰制 |
 | 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 幼小中 | 国际 |
-| **第三阶梯** |
+|| **第三阶梯** |
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 幼小中 | 国际 |
 | 6 | [Chiang Mai University Demonstration School (Kindergarten and Primary Levels)](https://itpc.edu.cmu.ac.th/) | 清迈大学附属示范学校幼儿园和小学部 | 幼小 | 公立泰制 | 
 | 6 | [Chiang Mai University Demonstration School (Secondary Levels)](https://cmud.edu.cmu.ac.th/) | 清迈大学附属示范学校中学部 | 中学 | 公立泰制 |
@@ -21,7 +21,7 @@
 | 10 | [Anuban Chiangmai School](https://abcm.ac.th/) | 幼儿园学校清迈校区 | 幼小中 | 公立泰制 |
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 幼小中 | 国际 |
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 中学 | 公立泰制 | 
-| **第四阶梯** |
+|| **第四阶梯** |
 || [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 幼儿园 | 国际 |
 || [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 幼儿园 | 国际 |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 幼儿园 | 私立泰制 |
