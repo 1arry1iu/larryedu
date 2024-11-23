@@ -5,11 +5,11 @@
 || **第一阶梯** |
 | 1 | [Montfort College Primary Section](https://www.mcp.ac.th/) | 蒙福学院小学部 | 私立 | - | 泰制 | - | - |
 | 1 | [Montfort College Secondary Section](https://www.montfort.ac.th/) | 蒙福学院中学部 | 私立 | - | - | 泰制 | 泰制 |
-| 1 | [Montfort College Secondary Section English Programme](https://www.montfort.ac.th/) | 蒙福学院中学部英语项目 | 私立 | - | - | 剑桥 | 剑桥 |
+| 1 | [Montfort College Secondary Section English Programme](https://www.montfort.ac.th/) | 蒙福学院中学部英语项目 | 国际 | - | - | 剑桥 | 剑桥 |
 || **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 | IEYC | 剑桥/IPC | 剑桥 | 剑桥 |
 | 3 | [Prince Royal's College](https://www.prc.ac.th/) | 皇家王子学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
-| 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 私立 | 
+| 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 国际 | 
 || **第三阶梯** |
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 |
 | 6 | [Chiang Mai University Demonstration School (Kindergarten and Primary Levels)](https://itpc.edu.cmu.ac.th/) | 清迈大学附属示范学校幼儿园和小学部 | 公立泰制 | 
