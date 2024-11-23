@@ -25,14 +25,14 @@
 || [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 | - | - | 中国 | 中国/AP |
 || [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
 || [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | 国际 | 德国 | 德国 | 德国 | 德国 |
-|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 | 美式 | 美式 | 美式 | 美式/AP |
+|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP |
 || [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 | 共同核心 | - | - | - |
 || [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
 || [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB |
 || [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
-|| [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 美式 | 美式 | 美式 | 美式/AP |
+|| [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP |
 || [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
 || [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
