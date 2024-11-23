@@ -22,13 +22,13 @@
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 | EYFS | 爱德思 | 爱德思 | 爱德思 |
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 | - | - | 泰制 | 泰制 |
 || **第四阶梯** |
-|| [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 |
-|| [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 |
-|| [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立泰制 |
-|| [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立泰制 |
-|| [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立泰制 | 
-|| [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立泰制 | 
-|| [Wichai Wittaya School Nursery and Kindergarten Sections](https://wichai.ac.th/) | 威才维塔雅学校早教部 | 私立泰制 |
+|| [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 | IPC | - | - | - |
+|| [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 | 共同核心 | - | - | - |
+|| [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
+|| [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
+|| [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
+|| [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
+|| [Wichai Wittaya School Nursery and Kindergarten Sections](https://wichai.ac.th/) | 威才维塔雅学校早教部 | 私立 | 泰制 | - | - | - |
 || [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 |
 || [Cariad International School](https://www.facebook.com/profile.php?id=61560619407922) | 真爱国际学校 | 国际 |
 || [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 |
