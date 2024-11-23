@@ -14,7 +14,7 @@
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP |
 | 6 | [Chiang Mai University Demonstration School (Kindergarten and Primary Levels)](https://itpc.edu.cmu.ac.th/) | 清迈大学附属示范学校幼儿园和小学部 | 公立 | 泰制 | 泰制 | - | - |
 | 6 | [Chiang Mai University Demonstration School (Secondary Levels)](https://cmud.edu.cmu.ac.th/) | 清迈大学附属示范学校中学部 | 公立 | - | - | 泰制 | 泰制 |
-| 6 | [Chiang Mai International School](https://cmis.ac.th/) | 清迈国际学校 | 国际 | 本校 | 本校 | 本校 | 美标/AP |
+| 6 | [Chiang Mai International School](https://cmis.ac.th/) | 清迈国际学校 | 国际 | 本校 | 本校 | 本校 | 美式/AP |
 | 6 | [Dara Academy](http://dara.ac.th/) | 德拉学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 6 | [Satit International Bilingual School of Rangsit University Chiangmai](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 | 10 | [Americana Chinese International School](https://www.acis.ac.th/) | 美中国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP |
@@ -22,26 +22,26 @@
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 | EYFS | 爱德思 | 爱德思 | 爱德思 |
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 | - | - | 泰制 | 泰制 |
 || **第四阶梯** |
+|| [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 | IB | IB | IB | IB |
 || [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 | IPC | - | - | - |
+|| [Cariad International School](https://www.facebook.com/profile.php?id=61560619407922) | 真爱国际学校 | 国际 | 芬兰 | 剑桥 | 剑桥 | 剑桥 |
+|| [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 | - | - | 中国 | 中国/AP |
+|| [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
+|| [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | 国际 | 德国 | 德国 | 德国 | 德国 |
+|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 | 美式 | 美式 | 美式 | 美式/AP |
 || [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 | 共同核心 | - | - | - |
+|| [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
+|| [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
+|| [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB |
 || [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
+|| [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 美式 | 美式 | 美式 | 美式/AP |
+|| [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
 || [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
 || [Wichai Wittaya School Nursery and Kindergarten Sections](https://wichai.ac.th/) | 威才维塔雅学校早教部 | 私立 | 泰制 | - | - | - |
-|| [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 |
-|| [Cariad International School](https://www.facebook.com/profile.php?id=61560619407922) | 真爱国际学校 | 国际 |
-|| [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 |
-|| [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | 国际 | 
-|| [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | 国际 |
-|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 |
-|| [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 |
-|| [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 |
-|| [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 |
-|| [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 
-|| [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 |
-|| [Wichai Wittaya School Primary and Secondary Sections](https://wichai.ac.th/) | 威才维塔雅学校中学部 | 国际 |
-|| [Windfield, Ecole Française de Chiang Mai](https://windfield.ac.th/chiang-mai-campus/) | 温德菲尔德清迈法国学校 | 国际 | 
+|| [Wichai Wittaya School Primary and Secondary Sections](https://wichai.ac.th/) | 威才维塔雅学校小学和中学部 | 国际 | - | 剑桥 | 剑桥 | 剑桥 |
+|| [Windfield, Ecole Française de Chiang Mai](https://windfield.ac.th/chiang-mai-campus/) | 温德菲尔德清迈法国学校 | 国际 | 法国 | 法国 | - | - |
 || [Ambassador Bilingual Academy](https://www.abachiangmai.com/) | 大使双语学院 | 私立泰制 | 
 || [Ambassador Bilingual School](https://absbilingualschool.ac.th/) | 大使双语学校 | 私立泰制 |
 || [Chongfah Sinseung Wanichbamrung School](https://www.chongfah.ac.th/) | 公立崇华新生华立学校 | 私立泰制 |
