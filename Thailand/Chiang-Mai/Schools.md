@@ -29,6 +29,7 @@
 || [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 | 共同核心 | - | - | - |
 || [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Mill Hill International School Thailand](https://sites.google.com/view/millhillthailand) | 泰国米尔山国际学校 | 国际 | EYFS | 英制 | 英制 | 英制 |
+|| [Northern International Montessori School](https://nims-chiangmai.org/) | 北方国际蒙特梭利学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
 || [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
 || [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB |
@@ -42,6 +43,7 @@
 || [Ambassador Bilingual Academy](https://www.abachiangmai.com/) | 大使双语学院 | 私立泰制 | 
 || [Ambassador Bilingual School](https://absbilingualschool.ac.th/) | 大使双语学校 | 私立泰制 |
 || [Chongfah Sinseung Wanichbamrung School](https://www.chongfah.ac.th/) | 公立崇华新生华立学校 | 私立泰制 |
+|| [Christian Outreach International School](https://maps.app.goo.gl/HPc8NRWArZkhreSs9) | 基督教拓展国际学校 | 泰制私立
 || [Kasintorn Saint James Chiang Mai School](https://saintjames.ac.th/) | 清迈戛欣通圣詹姆斯学校 | 私立泰制 |
 || [Kowittamrong Chiangmai School](http://www.kowitt.ac.th/) | 清迈构维塔龙学校 | 私立泰制 |
 || [Luckpong Wittaya School](https://www.facebook.com/Luckpongwittaya/) | 拉蓬学校 | 私立泰制 |
@@ -56,6 +58,7 @@
 || [Sarasas Witaed Upatham School](https://www.facebook.com/Witaedupathum) | 沙拉萨维特乌巴探学校 | 私立泰制 |
 || [Siriaunda School](https://siriaunda.ac.th/) | 西里安达学校 | 私立泰制 | 
 || [Subnathitham School](http://sntcm.ac.th/) | 素纳提塔姆学校 | 私立泰制 |
+|| [The Nest International School](https://www.facebook.com/TheNestInternationalChiangMai/) | 安巢国际学校 | 私立泰制 |
 || [Tonkla School](https://www.tonkla.ac.th/) | 童蔻拉学校 | 私立泰制 | 
 || [Varee Chiangmai School](https://www.varee.ac.th/) | 清水清迈学校 | 私立泰制 |
 || [Wachirawit Chiangmai School](https://www.wachirawit.ac.th/) | 华威学校 | 私立泰制 |
