@@ -22,6 +22,7 @@
 || [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 | IB | IB | IB | IB |
 || [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 | IPC | - | - | - |
 || [Cariad International School](https://www.facebook.com/profile.php?id=61560619407922) | 真爱国际学校 | 国际 | 芬兰 | 剑桥 | 剑桥 | 剑桥 |
+|| [Chiang Mai Ceder International School](https://chiangmaicedar.ac.th/) | 清迈雪松国际学校 | 国际 | 加速基督教育 | 加速基督教育 | 加速基督教育 | 加速基督教育 |
 || [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 | - | - | 中国 | 中国/AP |
 || [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
 || [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | 国际 | 德国 | 德国 | 德国 | 德国 |
