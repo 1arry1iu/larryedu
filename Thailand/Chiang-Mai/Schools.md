@@ -13,7 +13,7 @@
 | 6 | Chiang Mai University Demonstration School ([Kindergarten and Primary Levels](https://itpc.edu.cmu.ac.th/), [Secondary Levels](https://cmud.edu.cmu.ac.th/)) | 清迈大学附属示范学校 | 公立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 6 | [Chiang Mai International School](https://cmis.ac.th/) | 清迈国际学校 | 国际 | 本校 | 本校 | 本校 | 美式/AP | [2022](https://cmis.ac.th/sites/default/files/CMIS_profile_2021-2022.pdf) |
 | 6 | [Dara Academy](http://dara.ac.th/) | 德拉学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
-| 6 | [Satit International Bilingual School of Rangsit University Chiangmai](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
+| 6 | [Satit International Bilingual School of Rangsit University Chiangmai](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 | [大学录取](https://sibs.ac.th/university-offers/) |
 | 10 | [Americana Chinese International School](https://www.acis.ac.th/) | 美中国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP |
 | 10 | [Anuban Chiangmai School](https://abcm.ac.th/) | 幼儿园学校清迈校区 | 公立 | 泰制 | 泰制 | - | - | 
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 | EYFS | 爱德思 | 爱德思 | 爱德思 |
