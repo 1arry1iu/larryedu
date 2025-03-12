@@ -39,7 +39,7 @@
 || [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 | [2025](https://www.facebook.com/VareeInternational/posts/pfbid02aMxskrEdwYZgRm4Ui4Nr8zME1Ea97fT6t6fSJqfxDv5QDA8zkYoat7agxMgmFfd3l) |
 || [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
 || [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
-|| [Wichai Wittaya School](https://wichai.ac.th/) | 威才维塔雅学校 | 国际 | 泰制 | 剑桥 | 剑桥 | 剑桥 |
+|| [Wichai Wittaya School](https://wichai.ac.th/) | 威才维塔雅学校 | 国际 | 泰制 | 剑桥 | 剑桥 | 剑桥 | [2022](https://wichai.ac.th/100-university-placements/) |
 || [Windfield, Ecole Française de Chiang Mai](https://windfield.ac.th/chiang-mai-campus/) | 温德菲尔德清迈法国学校 | 国际 | 法国 | 法国 | - | - |
 || [Ambassador Bilingual Academy](https://www.abachiangmai.com/) | 大使双语学院 | 私立泰制 | 
 || [Ambassador Bilingual School](https://absbilingualschool.ac.th/) | 大使双语学校 | 私立泰制 |
