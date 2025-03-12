@@ -31,7 +31,7 @@
 || [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Mill Hill International School Thailand](https://sites.google.com/view/millhillthailand) | 泰国米尔山国际学校 | 国际 | EYFS | 英制 | 英制 | 英制 |
 || [Northern International Montessori School](https://nims-chiangmai.org/) | 北方国际蒙特梭利学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
-|| [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB |
+|| [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB | [2023](https://www.panyaden.ac.th/2023/05/16/university-offers-at-panyaden/) |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
 || [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB | [2024](https://ptis.ac.th/wp-content/uploads/2025/02/School-Profile-Final-for-Web-Feb-2025.pdf) |
 || [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
