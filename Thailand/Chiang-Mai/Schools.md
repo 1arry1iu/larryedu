@@ -1,7 +1,7 @@
 # 泰国清迈国际学校和泰制双语项目学校
 
-| 排名 | 英文校名 | 中文校名 | 体制 | 早教 | 小学 | 初中 | 高中 |
-|---|---|---|---|---|---|---|---|
+| 排名 | 英文校名 | 中文校名 | 体制 | 早教 | 小学 | 初中 | 高中 | 大学录取 |
+|---|---|---|---|---|---|---|---|---|
 || **第一阶梯** |
 | 1 | Montfort College ([Primary Section](https://www.mcp.ac.th/), [Secondary Section](https://www.montfort.ac.th/)) | 蒙福学院 | 国际 | - | 泰制 | 泰制/剑桥 | 泰制/剑桥 |
 || **第二阶梯** |
@@ -33,7 +33,7 @@
 || [Northern International Montessori School](https://nims-chiangmai.org/) | 北方国际蒙特梭利学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
 || [Panyaden International School](https://www.panyaden.ac.th/) | 卓越智力国际学校 | 国际 | EYFS | IPC | IMYC | IB |
 || [Premrudee Kindergarten School](https://www.facebook.com/premrudeekindergarten/) | 柏姆露迪幼儿园学校 | 私立 | 泰制 | - | - | - |
-|| [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB |
+|| [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB | [2024](https://ptis.ac.th/wp-content/uploads/2025/02/School-Profile-Final-for-Web-Feb-2025.pdf) |
 || [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
 || [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP |
 || [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
