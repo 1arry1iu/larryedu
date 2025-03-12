@@ -3,7 +3,7 @@
 | 排名 | 英文校名 | 中文校名 | 体制 | 早教 | 小学 | 初中 | 高中 | 大学录取 |
 |---|---|---|---|---|---|---|---|---|
 || **第一阶梯** |
-| 1 | Montfort College ([Primary Section](https://www.mcp.ac.th/), [Secondary Section](https://www.montfort.ac.th/)) | 蒙福学院 | 国际 | - | 泰制 | 泰制/剑桥 | 泰制/剑桥 |
+| 1 | Montfort College ([Primary Section](https://www.mcp.ac.th/), [Secondary Section](https://www.montfort.ac.th/)) | 蒙福学院 | 国际 | - | 泰制 | 泰制/剑桥 | 泰制/剑桥 | [2025](https://www.facebook.com/share/p/1DJCofL6RB/) |
 || **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 | IEYC | 剑桥/IPC | 剑桥 | 剑桥 | [2024](https://www.lannaist.ac.th/about-us/academic-achievement/) |
 | 3 | [Prince Royal's College](https://www.prc.ac.th/) | 皇家王子学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
