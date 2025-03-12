@@ -36,7 +36,7 @@
 || [Prem Tinsulanonda International School](https://ptis.ac.th/) | 炳·廷素拉暖国际学校 | 国际 | IB | IB | IB | IB | [2024](https://ptis.ac.th/wp-content/uploads/2025/02/School-Profile-Final-for-Web-Feb-2025.pdf) |
 || [Sunshine Kindergarten](https://www.sunshinekindergarten.com/) | 阳光幼儿园 | 私立 | 泰制 | - | - | - |
 || [Unity Concord International School](https://www.ucis.ac.th/) | 联合和谐国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP |
-|| [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
+|| [Varee Chiangmai International School](https://vcis.ac.th/) | 清水清迈国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 | [2025](https://www.facebook.com/VareeInternational/posts/pfbid02aMxskrEdwYZgRm4Ui4Nr8zME1Ea97fT6t6fSJqfxDv5QDA8zkYoat7agxMgmFfd3l) |
 || [Vimantip Kindergarten](https://www.facebook.com/vimantip) | 维玛蒂学校 | 私立 | 泰制 | - | - | - |
 || [Waidaroon Kindergarten School](https://waidaroon.ac.th/) | 光达伦幼儿园 | 私立 | 泰制 | - | - | - | 
 || [Wichai Wittaya School](https://wichai.ac.th/) | 威才维塔雅学校 | 国际 | 泰制 | 剑桥 | 剑桥 | 剑桥 |
