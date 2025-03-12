@@ -26,7 +26,7 @@
 || [Chiang Mai Chinese International School](https://ccis.ac.th/) | 清迈中文国际学校 | 国际 | - | - | 中国 | 中国/AP |
 || [Chiang Mai Montessori International School](https://www.chiangmaimontessori.org/) | 清迈蒙特梭利国际学校 | 国际 | 蒙特梭利 | 蒙特梭利 | - | - |
 || [Christliche Deutsche Schule Chiang Mai](https://cdsc.ac.th/) | 清迈基督教德国学校 | 国际 | 德国 | 德国 | 德国 | 德国 |
-|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP |
+|| [Grace International School](https://gisthailand.org/) | 恩典国际学校 | 国际 | 混合美制 | 混合美制 | 混合美制 | 混合美制/AP | [大学录取](https://drive.google.com/file/d/1c22afIQ6JtUwapbY-mGCRygXI0Kt230u/view) |
 || [Hana Christian International Kindergarten](https://www.hcik.ac.th/) | 合一基督教国际幼儿园 | 国际 | 共同核心 | - | - | - |
 || [Meritton British International School](https://merittonbritish.ac.th/) | 美利顿英国国际学校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 |
 || [Mill Hill International School Thailand](https://sites.google.com/view/millhillthailand) | 泰国米尔山国际学校 | 国际 | EYFS | 英制 | 英制 | 英制 |
