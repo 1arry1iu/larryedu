@@ -19,7 +19,7 @@
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 | EYFS | 爱德思 | 爱德思 | 爱德思 |
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 | - | - | 泰制 | 泰制 |
 || **第四阶梯** |
-|| [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 | IB | IB | IB | IB |
+|| [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 | IB | IB | IB | IB | [2015-2024](https://www.apis.ac.th/wp-content/uploads/2024/09/24-25-School-Profile.pdf) |
 || [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 | IPC | - | - | - |
 || [Cariad International School](https://www.facebook.com/profile.php?id=61560619407922) | 真爱国际学校 | 国际 | 芬兰 | 剑桥 | 剑桥 | 剑桥 |
 || [Chiang Mai Ceder International School](https://chiangmaicedar.ac.th/) | 清迈雪松国际学校 | 国际 | 加速基督教育 | 加速基督教育 | 加速基督教育 | 加速基督教育 |
