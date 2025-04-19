@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/1arry1iu/larryedu/refs/heads/main/Images/Main.webp)
+![](https://raw.githubusercontent.com/1arry1iu/larryedu/refs/heads/main/Images/Main.png)
 
 # Larry教育移民咨询
 
