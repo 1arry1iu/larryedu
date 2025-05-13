@@ -20,7 +20,7 @@
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 | - | - | 泰制 | 泰制 |
 || **第四阶梯** |
 || [American Pacific International School](https://www.apis.ac.th/) | 美国太平洋国际学校 | 国际 | IB | IB | IB | IB | [2015-2024](https://www.apis.ac.th/wp-content/uploads/2024/09/24-25-School-Profile.pdf), [2021](https://www.facebook.com/Americanpacificinternational/posts/pfbid05x6Q61wTCkJDMnBwVqpxwieT5eYJzSXVeF8vRfwg3M1i2N777XkMV6VSXerMqAobl) |
-|| [Boston International School](https://www.bostoninternationalschoolcm.com/) | 波士顿国际学校 | 韩制 | 韩制 | 韩制 | 韩制 | 
+|| [Boston International School](https://www.bostoninternationalschoolcm.com/) | 波士顿国际学校 | 国际 | 韩制 | 韩制 | 韩制 | 韩制 | 
 || [Bright Seeds International Kindergarten](https://brightseeds.ac.th/) | 光明种子国际幼儿园 | 国际 | IPC | - | - | - |
 || [Cariad International School](https://cariadschool.com/) | 真爱国际学校 | 国际 | 芬兰 | 剑桥 | 剑桥 | 剑桥 |
 || [Chiang Mai Ceder International School](https://chiangmaicedar.ac.th/) | 清迈雪松国际学校 | 国际 | 加速基督教育 | 加速基督教育 | 加速基督教育 | 加速基督教育 |
