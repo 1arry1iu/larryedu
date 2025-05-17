@@ -15,7 +15,7 @@
 | 6 | [Dara Academy](http://dara.ac.th/) | 德拉学校 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 6 | [Satit International Bilingual School of Rangsit University Chiangmai](https://sibs.ac.th/) | 兰实大学国际双语示范学校清迈分校 | 国际 | EYFS | 剑桥 | 剑桥 | 剑桥 | [大学录取](https://sibs.ac.th/university-offers/) |
 | 10 | [Americana Chinese International School](https://www.acis.ac.th/) | 美中国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP |
-| 10 | [Anuban Chiangmai School](https://abcm.ac.th/) | 幼儿园学校清迈校区 | 公立 | 泰制 | 泰制 | - | - | 
+| 10 | [Anuban Chiangmai School](https://abcm.ac.th/) | 幼儿园学校清迈分校 | 公立 | 泰制 | 泰制 | - | - | 
 | 10 | [British Concordance International School](https://www.bcisschool.ac.th/) | 英国协和国际学校 | 国际 | EYFS | 爱德思 | 爱德思 | 爱德思 |
 | 10 | [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/) | 耀华中学 | 公立 | - | - | 泰制 | 泰制 |
 || **第四阶梯** |
