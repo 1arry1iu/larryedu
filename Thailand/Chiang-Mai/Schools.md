@@ -47,16 +47,16 @@
 || [Christian Outreach International School](https://maps.app.goo.gl/HPc8NRWArZkhreSs9) | 基督教拓展国际学校 | 泰制私立
 || [Kasintorn Saint James Chiang Mai School](https://saintjames.ac.th/) | 清迈戛欣通圣詹姆斯学校 | 私立泰制 |
 || [Kowittamrong Chiangmai School](http://www.kowitt.ac.th/) | 清迈构维塔龙学校 | 私立泰制 |
-|| [Luckpong Wittaya School](https://www.facebook.com/Luckpongwittaya/) | 拉蓬学校 | 私立泰制 |
+|| [Luckpong Wittaya School](https://www.facebook.com/Luckpongwittaya/) | 拉蓬维塔雅学校 | 私立泰制 |
 || [Nandachart School](https://nandachartschool.com/) | 南达查学校 | 私立泰制 |
 || [Napa Chiangmai School](https://www.napa.ac.th/) | 清迈天空学校 | 私立泰制 |
 || [Pantasanya School](https://sopromise.net/) | 潘塔散亚学校 | 私立泰制 |
 || [Pimandek Chiang Mai School](https://pimandek.ac.th/) | 清迈联合智慧毗曼学校 | 私立泰制 | 
 || [Regina Coeli College](https://www.regina.ac.th/) | 雷吉娜妙济学院 | 私立泰制 |
 || [Sacred Heart College](https://sch.ac.th/) | 圣心学院 | 私立泰制 |
-|| [Sarasas Witaed Chiang Mai School](https://www.scm.ac.th/) | 莎拉萨维特清迈学校 | 私立泰制 |
-|| [Sarasas Witaed Lanna School](https://sarasas-lanna.ac.th/) | 莎拉萨维特兰纳学校 | 私立泰制 |
-|| [Sarasas Witaed Upatham School](https://www.facebook.com/Witaedupathum) | 沙拉萨维特乌巴探学校 | 私立泰制 |
+|| [Sarasas Witaed Chiang Mai School](https://www.scm.ac.th/) | 撒拉萨维特清迈学校 | 私立泰制 |
+|| [Sarasas Witaed Lanna School](https://sarasas-lanna.ac.th/) | 撒拉萨维特兰纳学校 | 私立泰制 |
+|| [Sarasas Witaed Upatham School](https://www.facebook.com/Witaedupathum) | 撒拉萨维特乌巴探学校 | 私立泰制 |
 || [Siriaunda School](https://siriaunda.ac.th/) | 西里安达学校 | 私立泰制 | 
 || [Subnathitham School](http://sntcm.ac.th/) | 素纳提塔姆学校 | 私立泰制 |
 || [The Nest International School](https://www.facebook.com/TheNestInternationalChiangMai/) | 安巢国际学校 | 私立泰制 |
