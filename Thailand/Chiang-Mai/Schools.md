@@ -7,7 +7,7 @@
 || **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 | IEYC | 剑桥/IPC | 剑桥 | 剑桥 | [2024](https://www.lannaist.ac.th/about-us/academic-achievement/) |
 | 3 | [Prince Royal's College](https://www.prc.ac.th/) | 王子学校 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
-| 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 国际 | EYFS | 新加坡 | 新加坡/剑桥 | 剑桥 |
+| 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈校区 | 国际 | EYFS | 新加坡 | 新加坡/剑桥 | 剑桥 |
 || **第三阶梯** |
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP | [2023](https://www.nis.ac.th/wp-content/uploads/2024/07/School-Profile-2024-25.pdf) |
 | 6 | Chiang Mai University Demonstration School ([Kindergarten and Primary Levels](https://itpc.edu.cmu.ac.th/), [Secondary Levels](https://cmud.edu.cmu.ac.th/)) | 清迈大学附属示范学校 | 公立 | 泰制 | 泰制 | 泰制 | 泰制 |
