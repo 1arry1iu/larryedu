@@ -6,7 +6,7 @@
 | 1 | Montfort College ([Primary Section](https://www.mcp.ac.th/), [Secondary Section](https://www.montfort.ac.th/)) | 蒙福学院 | 国际 | - | 泰制 | 泰制/剑桥 | 泰制/剑桥 | [2025](https://www.facebook.com/share/p/1DJCofL6RB/) |
 || **第二阶梯** |
 | 2 | [Lanna International School](https://www.lannaist.ac.th/) | 兰纳国际学校 | 国际 | IEYC | 剑桥/IPC | 剑桥 | 剑桥 | [2024](https://www.lannaist.ac.th/about-us/academic-achievement/) |
-| 3 | [Prince Royal's College](https://www.prc.ac.th/) | 皇家王子学院 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
+| 3 | [Prince Royal's College](https://www.prc.ac.th/) | 王子学校 | 私立 | 泰制 | 泰制 | 泰制 | 泰制 |
 | 3 | [Singapore International School, Chiangmai Campus](https://sisb.ac.th/singapore-international-school-chiangmai/) | 新加坡国际学校清迈分校 | 国际 | EYFS | 新加坡 | 新加坡/剑桥 | 剑桥 |
 || **第三阶梯** |
 | 5 | [Nakornpayap International School](https://www.nis.ac.th/) | 西北之城国际学校 | 国际 | 共同核心 | 共同核心 | 共同核心 | 共同核心/AP | [2023](https://www.nis.ac.th/wp-content/uploads/2024/07/School-Profile-2024-25.pdf) |
